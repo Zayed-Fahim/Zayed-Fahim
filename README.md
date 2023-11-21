@@ -1,27 +1,280 @@
-# 👋 Hi there! I'm [Zayed Fahim]
+![Banner](https://github.com/Zayed-Fahim/Zayed-Fahim/blob/main/banner-11.png)
 
-I'm a passionate full-stack developer with expertise in building robust web applications using cutting-edge technologies. My skills span across the entire development stack, from server-side to client-side, allowing me to create seamless and efficient user experiences.
+## 🌏 About me
 
-## 🚀 Technologies I Work With
+<p align="center">
+  Innovative Software Engineer & Front-End Maestro 🚀 | Passionate React Developer 💻 <br/> | Crafting Remarkable Full-Stack Experiences | MERN-Stack Enthusiast
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+## 💼 Portfolio
 
-## 📚 What I'm Currently Learning
+Thanks for checking out my GitHub repository! Feel free to explore my portfolio to learn more about my projects and skills.
 
-I'm always striving to enhance my skills and stay updated with the latest technologies. Currently, I'm exploring ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square).
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf)](https://zayed-fahim.web.app/)
 
-## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/zayed-fahim/)
-[![Portfolio Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://zayed-fahim.web.app/)
+## 💻 Technologies that I know
 
-## 🌈 GitHub Stats
+<p align="center">
+  <a
+    href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
+      width="36"
+      height="36"
+      alt="C"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      width="36"
+      height="36"
+      alt="JavaScript"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      width="36"
+      height="36"
+      alt="HTML5"
+    />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      width="36"
+      height="36"
+      alt="CSS3"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      width="36"
+      height="36"
+      alt="React"
+    />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
+      width="36"
+      height="36"
+      alt="NextJs"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+      width="36"
+      height="36"
+      alt="TailwindCSS"
+    />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+      width="36"
+      height="36"
+      alt="NodeJS"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"
+      width="36"
+      height="36"
+      alt="Express"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+      width="36"
+      height="36"
+      alt="MongoDB"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+      width="36"
+      height="36"
+      alt="Firebase"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+      width="36"
+      height="36"
+      alt="Git"
+    />
+  </a>
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zayed-Fahim&show_icons=true&hide=contribs,issues&theme=radical)
+## 📈 Current Stats
 
-Thanks for stopping by! 😊
+<p align="center" dir="auto">
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="true"
+    ><img
+      width="60%"
+      src="https://github-readme-streak-stats.herokuapp.com?user=Zayed-Fahim&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;fire=FF1CF7&amp;sideLabels=00F0FF&amp;currStreakNum=FF1CF7&amp;ring=FF1CF7&amp;currStreakLabel=FF1CF7&amp;sideNums=00F0FF"
+      style="max-width: 100%"
+  /></a>
+</p>
+
+## 📫 Reach me out
+
+<p align="center" dir="auto">
+  <a
+    target="_blank"
+    rel="noopener noreferrer"
+    href="https://www.linkedin.com/in/zayed-fahim/"
+  >
+    <img
+      height="75"
+      src="https://github.com/Zayed-Fahim/Zayed-Fahim/blob/main/Linkedin.png"
+      style="max-width: 100%"
+    />
+  </a>
+  <a href="https://www.facebook.com/Zayed.Fahim33" rel="nofollow">
+    <img
+      height="75"
+      src="https://github.com/Zayed-Fahim/Zayed-Fahim/blob/main/Facebook.png"
+      style="max-width: 100%"
+    />
+  </a>
+</p>
+
+## 👀 Current overview
+<div align="left" dir="auto">
+  <a href="https://app.daily.dev/zayedfahim" rel="nofollow"
+    ><img
+      align="right"
+      src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=olz"
+      width="200"
+      alt="Mir Hussain's Dev Card"
+      style="max-width: 100%"
+  /></a>
+</div>
+<h3 dir="auto">
+  <a
+    id="user-content--im-working---as-myself"
+    class="anchor"
+    aria-hidden="true"
+    tabindex="-1"
+    href="#-im-working---as-myself"
+    ><svg
+      class="octicon octicon-link"
+      viewBox="0 0 16 16"
+      version="1.1"
+      width="16"
+      height="16"
+      aria-hidden="true"
+    >
+      <path
+        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
+      ></path></svg></a
+  >🔭 I’m working - as myself.
+</h3>
+<h3 dir="auto">
+  <a
+    id="user-content--im-exploring---a-job-for-my-career"
+    class="anchor"
+    aria-hidden="true"
+    tabindex="-1"
+    href="#-im-exploring---a-job-for-my-career"
+    ><svg
+      class="octicon octicon-link"
+      viewBox="0 0 16 16"
+      version="1.1"
+      width="16"
+      height="16"
+      aria-hidden="true"
+    >
+      <path
+        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
+      ></path></svg></a
+  >🌱 I’m exploring - a job for my career.
+</h3>
+<h3 dir="auto">
+  <a
+    id="user-content--im-looking---to-collaborate-on-open-source-projects"
+    class="anchor"
+    aria-hidden="true"
+    tabindex="-1"
+    href="#-im-looking---to-collaborate-on-open-source-projects"
+    ><svg
+      class="octicon octicon-link"
+      viewBox="0 0 16 16"
+      version="1.1"
+      width="16"
+      height="16"
+      aria-hidden="true"
+    >
+      <path
+        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
+      ></path></svg></a
+  >👯 I’m looking - To collaborate on open-source projects.
+</h3>
+<h3 dir="auto">
+  <a
+    id="user-content--im-trying---to-learn-new-web-technologies"
+    class="anchor"
+    aria-hidden="true"
+    tabindex="-1"
+    href="#-im-trying---to-learn-new-web-technologies"
+    ><svg
+      class="octicon octicon-link"
+      viewBox="0 0 16 16"
+      version="1.1"
+      width="16"
+      height="16"
+      aria-hidden="true"
+    >
+      <path
+        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
+      ></path></svg></a
+  >🤔 I’m trying - To learn new web technologies.
+</h3>
+<h3 dir="auto">
+  <a
+    id="user-content--fun-fact---i-go-to-sleep-after-having-tea/coffee"
+    class="anchor"
+    aria-hidden="true"
+    tabindex="-1"
+    href="#-fun-fact---i-go-to-sleep-after-having-tea/coffee"
+    ><svg
+      class="octicon octicon-link"
+      viewBox="0 0 16 16"
+      version="1.1"
+      width="16"
+      height="16"
+      aria-hidden="true"
+    >
+      <path
+        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
+      ></path></svg></a
+  >⚡ Fun fact - I go to sleep after having Tea/Coffee.
+</h3>

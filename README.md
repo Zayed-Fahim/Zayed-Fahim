@@ -136,7 +136,7 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
-    
+    href=""
     ><img
       width="60%"
       src="https://github-readme-streak-stats.herokuapp.com?user=Zayed-Fahim&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;fire=FF1CF7&amp;sideLabels=00F0FF&amp;currStreakNum=FF1CF7&amp;ring=FF1CF7&amp;currStreakLabel=FF1CF7&amp;sideNums=00F0FF"

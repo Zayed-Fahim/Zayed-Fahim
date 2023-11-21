@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [Zayed Fahim]
 
 I'm a passionate full-stack developer with expertise in building robust web applications using cutting-edge technologies. My skills span across the entire development stack, from server-side to client-side, allowing me to create seamless and efficient user experiences.
 
@@ -11,35 +11,21 @@ I'm a passionate full-stack developer with expertise in building robust web appl
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-## 🌟 My Projects
-
-Here are a few projects that showcase my skills and expertise:
-
-### [Project Name 1](link-to-project-repo)
-[Description of the project and your role in it.]
-
-### [Project Name 2](link-to-project-repo)
-[Description of the project and your role in it.]
-
-### [Project Name 3](link-to-project-repo)
-[Description of the project and your role in it.]
-
 ## 📚 What I'm Currently Learning
 
-I'm always striving to enhance my skills and stay updated with the latest technologies. Currently, I'm exploring [mention any specific technology or framework you're learning].
+I'm always striving to enhance my skills and stay updated with the latest technologies. Currently, I'm exploring [Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square).
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](your-twitter-profile)
-[![Portfolio Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](your-portfolio-website)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/zayed-fahim/)
+[![Portfolio Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://zayed-fahim.web.app/)
 
 ## 🌈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,issues&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zayed-Fahim&show_icons=true&hide=contribs,issues&theme=radical)
 
-<!--
-You can use tools like https://github-readme-stats.vercel.app/ to generate GitHub stats for your README.
--->
+## 🛠️ Daily.dev Dev Card
+
+<a href="https://app.daily.dev/zayedfahim"><img src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=xrv" width="400" alt="Sayed Asif Zayed's Dev Card"/></a>
 
 Thanks for stopping by! 😊

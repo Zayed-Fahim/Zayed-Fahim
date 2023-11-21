@@ -24,8 +24,4 @@ I'm always striving to enhance my skills and stay updated with the latest techno
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zayed-Fahim&show_icons=true&hide=contribs,issues&theme=radical)
 
-## 🛠️ Daily.dev Dev Card
-
-<a href="https://app.daily.dev/zayedfahim"><img src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=xrv" width="400" alt="Sayed Asif Zayed's Dev Card"/></a>
-
 Thanks for stopping by! 😊

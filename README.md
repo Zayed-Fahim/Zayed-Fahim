@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with expertise in building robust web appl
 
 ## 📚 What I'm Currently Learning
 
-I'm always striving to enhance my skills and stay updated with the latest technologies. Currently, I'm exploring [Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square).
+I'm always striving to enhance my skills and stay updated with the latest technologies. Currently, I'm exploring ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square).
 
 ## 🤝 Connect with Me
 

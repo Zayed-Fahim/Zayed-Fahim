@@ -136,7 +136,7 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
   <a
     target="_blank"
     rel="noopener noreferrer nofollow"
-    href="https://github-readme-streak-stats.herokuapp.com?user=Zayed-Fahim&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;fire=FF1CF7&amp;sideLabels=00F0FF&amp;currStreakNum=FF1CF7&amp;ring=FF1CF7&amp;currStreakLabel=FF1CF7&amp;sideNums=00F0FF"
+    href="https://camo.githubusercontent.com/8c0ba9b0d3247404698e52aad6099beaf24a10d1f4249d22bfd8a013b267ccde/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d5a617965642d466168696d267468656d653d726561637426686964655f626f726465723d74727565266261636b67726f756e643d304431313137267374726f6b653d30443131313726666972653d46463143463726736964654c6162656c733d303046304646266375727253747265616b4e756d3d4646314346372672696e673d464631434637266375727253747265616b4c6162656c3d46463143463726736964654e756d733d303046304646"
     ><img
       width="60%"
       src="https://github-readme-streak-stats.herokuapp.com?user=Zayed-Fahim&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;fire=FF1CF7&amp;sideLabels=00F0FF&amp;currStreakNum=FF1CF7&amp;ring=FF1CF7&amp;currStreakLabel=FF1CF7&amp;sideNums=00F0FF"

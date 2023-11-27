@@ -174,7 +174,7 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
       align="right"
       src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=olz"
       width="200"
-      alt="Mir Hussain's Dev Card"
+      alt="Zayed's Dev Card"
       style="max-width: 100%"
   /></a>
 </div>

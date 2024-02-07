@@ -68,9 +68,6 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
         alt="CSS3"
       />
     </a>
-  </p>
-
-  <p align="center">
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
@@ -87,6 +84,9 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
         alt="React"
       />
     </a>
+  </p>
+
+  <p align="center">
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
@@ -111,9 +111,6 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
         alt="TailwindCSS"
       />
     </a>
-  </p>
-
-  <p align="center">
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
@@ -146,6 +143,9 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
         alt="Express"
       />
     </a>
+  </p>
+
+  <p align="center">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
@@ -154,9 +154,6 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
         alt="MongoDB"
       />
     </a>
-  </p>
-
-  <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
@@ -197,9 +194,6 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
         alt="Git"
       />
     </a>
-  </p>
-  
-  <p align="center">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
       <img
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
@@ -213,16 +207,39 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
 ## 📈 Current Stats
 
 <p align="center" dir="auto">
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://camo.githubusercontent.com/8c0ba9b0d3247404698e52aad6099beaf24a10d1f4249d22bfd8a013b267ccde/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d5a617965642d466168696d267468656d653d726561637426686964655f626f726465723d74727565266261636b67726f756e643d304431313137267374726f6b653d30443131313726666972653d46463143463726736964654c6162656c733d303046304646266375727253747265616b4e756d3d4646314346372672696e673d464631434637266375727253747265616b4c6162656c3d46463143463726736964654e756d733d303046304646"
-    ><img
-      width="60%"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Zayed-Fahim&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;fire=FF1CF7&amp;sideLabels=00F0FF&amp;currStreakNum=FF1CF7&amp;ring=FF1CF7&amp;currStreakLabel=FF1CF7&amp;sideNums=00F0FF"
-      style="max-width: 100%"
-  /></a>
-</p>
+    <a
+      target="_blank"
+      rel="noopener noreferrer nofollow"
+      href="https://github-readme-stats.vercel.app/api?username=Zayed-Fahim&hide=issues&show=prs_merged_percentage&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
+    >
+      <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=Zayed-Fahim&hide=issues&show=prs_merged_percentage&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
+      />
+    </a>
+    <a
+      target="_blank"
+      rel="noopener noreferrer nofollow"
+      href="https://github-readme-streak-stats.herokuapp.com/?user=Zayed-Fahim&amp"
+    >
+      <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Zayed-Fahim&amp;theme=react&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;fire=FF1CF7&amp;sideLabels=00F0FF&amp;currStreakNum=FF1CF7&amp;ring=FF1CF7&amp;currStreakLabel=FF1CF7&amp;sideNums=00F0FF"
+      />
+    </a>
+  </p>
+  <p align="center" dir="auto">
+    <a
+      target="_blank"
+      rel="noopener noreferrer nofollow"
+      href="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayed-Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
+    >
+      <img
+        width="50%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayed-Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
+      />
+    </a>
+  </p>
 
 ## 📫 Reach me out
 
@@ -259,102 +276,129 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
   /></a>
 </div>
 <h3 dir="auto">
-  <a
-    id="user-content--im-working---as-myself"
-    class="anchor"
-    aria-hidden="true"
-    tabindex="-1"
-    href="#-im-working---as-myself"
-    ><svg
-      class="octicon octicon-link"
-      viewBox="0 0 16 16"
-      version="1.1"
-      width="16"
-      height="16"
+    <a
+      id="user-content--im-working---as-myself"
+      class="anchor"
       aria-hidden="true"
+      tabindex="-1"
+      href="#-im-working---as-myself"
     >
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-      ></path></svg></a
-  >🔭 I’m working - as a Full Stack Developer at Crystal Vision Solution (CVS).
-</h3>
-<h3 dir="auto">
-  <a
-    id="user-content--im-exploring---a-job-for-my-career"
-    class="anchor"
-    aria-hidden="true"
-    tabindex="-1"
-    href="#-im-exploring---a-job-for-my-career"
-    ><svg
-      class="octicon octicon-link"
-      viewBox="0 0 16 16"
-      version="1.1"
-      width="16"
-      height="16"
+      <svg
+        class="octicon octicon-link"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+        aria-hidden="true"
+      >
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+    🔭 I’m working - as Myself.
+  </h3>
+  <h3 dir="auto">
+    <a
+      id="user-content--im-exploring---a-job-for-my-career"
+      class="anchor"
       aria-hidden="true"
+      tabindex="-1"
+      href="#-im-exploring---a-job-for-my-career"
     >
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-      ></path></svg></a
-  >🌱 I’m exploring - a job for my career.
-</h3>
-<h3 dir="auto">
-  <a
-    id="user-content--im-looking---to-collaborate-on-open-source-projects"
-    class="anchor"
-    aria-hidden="true"
-    tabindex="-1"
-    href="#-im-looking---to-collaborate-on-open-source-projects"
-    ><svg
-      class="octicon octicon-link"
-      viewBox="0 0 16 16"
-      version="1.1"
-      width="16"
-      height="16"
+      <svg
+        class="octicon octicon-link"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+        aria-hidden="true"
+      >
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+    🌱 I’m exploring - a job for my career.
+  </h3>
+  <h3 dir="auto">
+    <a
+      id="user-content--ive-completed-intern---as-a-full-stack-developer-from-crystal-vision-solution-cvs"
+      class="anchor"
       aria-hidden="true"
+      tabindex="-1"
+      href="#-ive-completed-intern---as-a-full-stack-developer-from-crystal-vision-solution-cvs"
     >
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-      ></path></svg></a
-  >👯 I’m looking - To collaborate on open-source projects.
-</h3>
-<h3 dir="auto">
-  <a
-    id="user-content--im-trying---to-learn-new-web-technologies"
-    class="anchor"
-    aria-hidden="true"
-    tabindex="-1"
-    href="#-im-trying---to-learn-new-web-technologies"
-    ><svg
-      class="octicon octicon-link"
-      viewBox="0 0 16 16"
-      version="1.1"
-      width="16"
-      height="16"
+      <svg
+        class="octicon octicon-link"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+        aria-hidden="true"
+      >
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+    🏁 I’ve completed Intern - as a Full Stack Developer from Crystal Vision
+    Solution (CVS).
+  </h3>
+  <h3 dir="auto">
+    <a
+      id="user-content--im-looking---to-collaborate-on-open-source-projects"
+      class="anchor"
       aria-hidden="true"
+      tabindex="-1"
+      href="#-im-looking---to-collaborate-on-open-source-projects"
     >
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-      ></path></svg></a
-  >🤔 I’m trying - To learn new web technologies.
-</h3>
-<h3 dir="auto">
-  <a
-    id="user-content--fun-fact---i-go-to-sleep-after-having-tea/coffee"
-    class="anchor"
-    aria-hidden="true"
-    tabindex="-1"
-    href="#-fun-fact---i-go-to-sleep-after-having-tea/coffee"
-    ><svg
-      class="octicon octicon-link"
-      viewBox="0 0 16 16"
-      version="1.1"
-      width="16"
-      height="16"
+      <svg
+        class="octicon octicon-link"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+        aria-hidden="true"
+      >
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+    👯 I’m looking - To collaborate on open-source projects.
+  </h3>
+  <h3 dir="auto">
+    <a
+      id="user-content--im-trying---to-learn-new-web-technologies"
+      class="anchor"
       aria-hidden="true"
+      tabindex="-1"
+      href="#-im-trying---to-learn-new-web-technologies"
     >
-      <path
-        d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
-      ></path></svg></a
-  >⚡ Fun fact - I go to sleep after having Tea/Coffee.
-</h3>
+      <svg
+        class="octicon octicon-link"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+        aria-hidden="true"
+      >
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+    🤔 I’m trying - To learn new web technologies.
+  </h3>
+  <h3 dir="auto">
+    <a
+      id="user-content--fun-fact---i-go-to-sleep-after-having-tea/coffee"
+      class="anchor"
+      aria-hidden="true"
+      tabindex="-1"
+      href="#-fun-fact---i-go-to-sleep-after-having-tea/coffee"
+    >
+      <svg
+        class="octicon octicon-link"
+        viewBox="0 0 16 16"
+        version="1.1"
+        width="16"
+        height="16"
+        aria-hidden="true"
+      >
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+    ⚡ Fun fact - I go to sleep after having Tea/Coffee.
+  </h3>

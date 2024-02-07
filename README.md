@@ -230,12 +230,23 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
   </p>
   <p align="center" dir="auto">
     <a
+      href="https://github-readme-stats.vercel.app/api/wakatime?username=@Zayed-Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
+      target="_blank"
+      rel="noopener noreferrer nofollow"
+    >
+      <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=@Zayed_Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
+        alt="Total time coded since Feb 7 2024"
+      />
+    </a>
+    <a
       target="_blank"
       rel="noopener noreferrer nofollow"
       href="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayed-Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
     >
       <img
-        width="50%"
+        width="49%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayed-Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
       />
     </a>

@@ -230,7 +230,7 @@ Thanks for checking out my GitHub repository! Feel free to explore my portfolio 
   </p>
   <p align="center" dir="auto">
     <a
-      href="https://github-readme-stats.vercel.app/api/wakatime?username=@Zayed-Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
+      href="https://github-readme-stats.vercel.app/api/wakatime?username=@Zayed_Fahim&layout=compact&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF1CF7&text_color=00F0FF&border_radius=4.5"
       target="_blank"
       rel="noopener noreferrer nofollow"
     >

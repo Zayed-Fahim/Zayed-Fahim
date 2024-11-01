@@ -10,7 +10,7 @@
 
 Thanks for checking out my GitHub repository! Feel free to explore my portfolio to learn more about my projects and skills.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf)](https://zayed-fahim.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-9cf)](https://zayedfahim.vercel.app)
 
 
 ## 💻 Technologies that I know

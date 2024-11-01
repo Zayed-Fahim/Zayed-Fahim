@@ -3,7 +3,7 @@
 ## 🌏 About me
 
 <p align="center">
-  Innovative Software Engineer & Front-End Maestro 🚀 | Passionate React Developer 💻 <br/> | Crafting Remarkable Full-Stack Experiences | MERN-Stack Enthusiast
+  Innovative Software Engineer & Full-Stack Maestro 🚀 | Passionate React Developer 💻 <br/> | Crafting Remarkable Full-Stack Experiences | MERN-Stack Enthusiast
 </p>
 
 ## 💼 Portfolio

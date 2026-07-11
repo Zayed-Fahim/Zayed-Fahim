@@ -24,7 +24,7 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
 
 ## 🛠️ Tech Stack
 
-<a href="https://app.daily.dev/zayedfahim"><img align="right" width="260" src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=gnl" alt="Zayed's daily.dev card" /></a>
+<a href="https://app.daily.dev/zayedfahim"><img align="right" width="270" src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=gnl" alt="Zayed's daily.dev card" /></a>
 
 **Languages**
 

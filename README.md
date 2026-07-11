@@ -55,13 +55,10 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
 </p>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zayed-Fahim&theme=radical" alt="Top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zayed-Fahim&theme=radical" alt="Most committed languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zayed-Fahim&theme=radical&utcOffset=6" alt="Commit time of day (UTC+6)" />
 </p>
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zayed-Fahim&theme=radical" alt="Profile details" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zayed-Fahim&theme=radical&utcOffset=6" alt="Commit time of day (UTC+6)" />
 </p>
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zayed-Fahim&bg_color=0D1117&color=00F0FF&line=FF1CF7&point=00F0FF&area=true&area_color=FF1CF7&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />

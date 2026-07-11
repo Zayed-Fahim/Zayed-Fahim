@@ -43,6 +43,13 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zayed-Fahim/Zayed-Fahim/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zayed-Fahim/Zayed-Fahim/output/github-snake.svg" />
+    <img width="98%" src="https://raw.githubusercontent.com/Zayed-Fahim/Zayed-Fahim/output/github-snake-dark.svg" alt="Contribution snake" />
+  </picture>
+</p>
+<p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayed-Fahim&theme=radical" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Zayed-Fahim&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&border_radius=4.5" alt="GitHub streak" />
 </p>

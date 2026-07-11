@@ -51,7 +51,7 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
 </p>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayed-Fahim&theme=radical" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Zayed-Fahim&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&border_radius=4.5" alt="GitHub streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Zayed-Fahim&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&border_radius=4.5&card_width=700&card_height=200" alt="GitHub streak" />
 </p>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zayed-Fahim&theme=radical" alt="Top languages by repo" />

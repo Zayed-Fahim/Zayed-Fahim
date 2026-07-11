@@ -73,6 +73,10 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
 </p>
 
 <p align="center">
+  <a href="https://app.daily.dev/zayedfahim"><img src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=gnl" width="330" alt="Zayed's daily.dev card" /></a>
+</p>
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </p>
 

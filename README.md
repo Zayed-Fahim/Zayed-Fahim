@@ -24,6 +24,8 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
 
 ## 🛠️ Tech Stack
 
+<a href="https://app.daily.dev/zayedfahim"><img align="right" width="260" src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=gnl" alt="Zayed's daily.dev card" /></a>
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,c" height="40" alt="TypeScript, JavaScript, Python, C" />
@@ -39,6 +41,8 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
 **Cloud, Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,firebase,supabase,git,github,postman" height="40" alt="AWS, Docker, Firebase, Supabase, Git, GitHub, Postman" />
+
+<br clear="both" />
 
 ## 📊 GitHub Analytics
 
@@ -70,10 +74,6 @@ I'm a backend-leaning full-stack engineer working as **SDE-I at [Shomvob Technol
   <a href="https://www.linkedin.com/in/zayed-fahim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://zayedfahim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF1CF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.facebook.com/Zayed.Fahim33"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
-
-<p align="center">
-  <a href="https://app.daily.dev/zayedfahim"><img src="https://api.daily.dev/devcards/4cac81e71faf4b6ab790cf0447a83930.png?r=gnl" width="330" alt="Zayed's daily.dev card" /></a>
 </p>
 
 <p align="center">
